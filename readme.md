@@ -12,5 +12,10 @@ Two samples are provided - [execution.py](https://github.com/unni-krrish/restaur
 - When offering exotic cuisines, retaurants are likely to be rated higher. Indian restaurants offering Indian cuisines tend to receive an average rating slightly below 4. This could be because of the variety of meals and customer's expectations regarding how a dish should be prepared. 
 - For new restaurants, the restaurant type would already be fixed. So to increase the rating, it can consider offering more variety in the cuisines and offering services like table booking and optional online ordering. Serving the meals to a focused customer group is highly recommended as the rating is severely affected by how large the audience is.
 
+## Data/Model Pipeline 
+![Picture1](https://user-images.githubusercontent.com/53073761/135336015-33d68146-8e02-4520-ac1d-0ad2130741db.png)
+
+
+
 ## Feature Importances at a glance (SHAP Summary)
 ![img](https://user-images.githubusercontent.com/53073761/134924384-97b9a66b-4820-44e8-a82d-56a7079144ce.jpg)
